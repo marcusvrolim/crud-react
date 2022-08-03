@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/crudReact/static/css/main.e394139f.css",
+    "main.js": "/crudReact/static/js/main.fc1decaf.js",
+    "static/js/787.cda612ba.chunk.js": "/crudReact/static/js/787.cda612ba.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/crudReact/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/crudReact/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/crudReact/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/crudReact/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/crudReact/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo.png": "/crudReact/static/media/logo.74607ace448435964099.png",
+    "index.html": "/crudReact/index.html",
+    "main.e394139f.css.map": "/crudReact/static/css/main.e394139f.css.map",
+    "main.fc1decaf.js.map": "/crudReact/static/js/main.fc1decaf.js.map",
+    "787.cda612ba.chunk.js.map": "/crudReact/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e394139f.css",
+    "static/js/main.fc1decaf.js"
+  ]
+}
